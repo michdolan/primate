@@ -1,0 +1,112 @@
+<Canvas>
+    <Kind>40</Kind>
+    <Name>OFX_UI_WIDGET_CANVAS</Name>
+    <IsMinified>0</IsMinified>
+    <XPosition>0.000000000</XPosition>
+    <YPosition>0.000000000</YPosition>
+</Canvas>
+<Widget>
+    <Kind>4</Kind>
+    <Name>SPARSITY</Name>
+    <Value>4.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>SENSITIVITY</Name>
+    <Value>0.946929932</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>VISCOSITY</Name>
+    <Value>0.881195068</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>DISPLACE</Name>
+    <Value>29.127197266</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>DISPLACE FALLOFF</Name>
+    <Value>0.026763916</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>VORTEX</Name>
+    <Value>-94.366455078</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>VORTEX FALLOFF</Name>
+    <Value>0.585571289</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>NOISE</Name>
+    <Value>4.644775391</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>NOISE FALLOFF</Name>
+    <Value>0.310943604</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>INVERT</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>HUE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>SATURATION</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>BRIGHTNESS</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>LIGHTNESS</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>RED</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>GREEN</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>BLUE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>POINT CLOUD</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>WIREFRAME</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>SOLID</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>12</Kind>
+    <Name>NAME</Name>
+    <Value>NAME</Value>
+</Widget>
