@@ -45,8 +45,8 @@ void ofApp::update() {
 			float scale = newStep / step;
 			ofVec3f scaleXY = ofVec3f(scale, scale, 1.0f);
 			ofVec3f translateXY = ofVec3f(
-				(camWidth - camWidth * scale) * 0.5f, 
-				(camHeight - camHeight * scale) * 0.5f, 
+				(camWidth - camWidth*scale) * 0.5f, 
+				(camHeight - camHeight*scale) * 0.5f, 
 				0.0f);
 			for (int i = 0; i < mesh.getNumVertices(); i++) {
 				verticesInit[i] *= scaleXY;
@@ -75,7 +75,7 @@ void ofApp::update() {
 				// Determine ref vert index w/ sparsity:
 				//   -Vert block taken from upper corner of larger mesh
 				//   -Verts iterated in reverse to flip the video feed
-				int i = (mesh.getNumVertices() - 1) - ((y / yStride * camWidth) + (x / xStride));
+				int i = (mesh.getNumVertices() - 1) - ((y/yStride * camWidth) + (x/xStride));
 				ofVec3f vertRef = verticesInit[i];
 				float distance = vertRef.length();
 
